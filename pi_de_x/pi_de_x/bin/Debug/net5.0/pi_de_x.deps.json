@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pi_de_x/1.0.0": {
+        "runtime": {
+          "pi_de_x.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pi_de_x/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

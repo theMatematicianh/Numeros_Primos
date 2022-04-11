@@ -1,0 +1,15 @@
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\bin\Debug\net5.0\pi_de_x.exe
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\bin\Debug\net5.0\pi_de_x.deps.json
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\bin\Debug\net5.0\pi_de_x.runtimeconfig.json
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\bin\Debug\net5.0\pi_de_x.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\bin\Debug\net5.0\pi_de_x.dll
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\bin\Debug\net5.0\ref\pi_de_x.dll
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\bin\Debug\net5.0\pi_de_x.pdb
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\obj\Debug\net5.0\pi_de_x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\obj\Debug\net5.0\pi_de_x.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\obj\Debug\net5.0\pi_de_x.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\obj\Debug\net5.0\pi_de_x.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\obj\Debug\net5.0\pi_de_x.dll
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\obj\Debug\net5.0\ref\pi_de_x.dll
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\obj\Debug\net5.0\pi_de_x.pdb
+C:\Users\Marcos\source\repos\pi_de_x\pi_de_x\obj\Debug\net5.0\pi_de_x.genruntimeconfig.cache
