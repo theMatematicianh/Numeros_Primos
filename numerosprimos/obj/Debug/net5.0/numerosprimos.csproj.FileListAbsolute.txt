@@ -1,0 +1,16 @@
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\bin\Debug\net5.0\numerosprimos.exe
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\bin\Debug\net5.0\numerosprimos.deps.json
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\bin\Debug\net5.0\numerosprimos.runtimeconfig.json
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\bin\Debug\net5.0\numerosprimos.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\bin\Debug\net5.0\numerosprimos.dll
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\bin\Debug\net5.0\ref\numerosprimos.dll
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\bin\Debug\net5.0\numerosprimos.pdb
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\obj\Debug\net5.0\numerosprimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\obj\Debug\net5.0\numerosprimos.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\obj\Debug\net5.0\numerosprimos.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\obj\Debug\net5.0\numerosprimos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\obj\Debug\net5.0\numerosprimos.dll
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\obj\Debug\net5.0\ref\numerosprimos.dll
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\obj\Debug\net5.0\numerosprimos.pdb
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\obj\Debug\net5.0\numerosprimos.genruntimeconfig.cache
+C:\Users\Marcos\source\repos\numerosprimos\numerosprimos\obj\Debug\net5.0\numerosprimos.csproj.AssemblyReference.cache
